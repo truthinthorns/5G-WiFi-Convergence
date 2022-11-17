@@ -1,5 +1,4 @@
-#Video-1-Instructions
-<h2>Video 1</h2>
+<h1>Video 1</h1>
 <ul>
     <li>Open Oracle VM VirtualBox</li>
     <li>Click 'New' at the top</li>
