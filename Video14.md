@@ -1,7 +1,7 @@
-<h2>Video 14</h2>
-<h4>resumes with where video 13 left off</h4>
-<h4>both free5gc (f) and ueransim (u) vms are running</h4>
-<h4>terminal/cmd window sshed into free5gc (t)</h4>
+<h1>Video 14</h1>
+<h3>resumes with where video 13 left off</h3>
+<h3>both free5gc (f) and ueransim (u) vms are running</h3>
+<h3>terminal/cmd window sshed into free5gc (t)</h3>
 <ul>
     <li>(t) <i>cd ~/free5gc</i></li>
     <li>(t) <i>cd webconsole</i></li>
