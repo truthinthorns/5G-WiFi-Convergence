@@ -1,5 +1,5 @@
 # 5G-WiFi-Convergence
-<h1>Prerequisites</h1>
+<h2>Prerequisites</h2>
 <ul>
     <li>Have either the Server (Command Line) or Desktop (GUI) version of Ubuntu 22.04</li>
     <ul>
