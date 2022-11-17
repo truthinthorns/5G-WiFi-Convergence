@@ -1,6 +1,6 @@
-<h2>Video 8</h2>
-<h4>Resumes within host computer cmd ssh'ed to vm immediately after last command in video 7, vm should not have been
-    closed between vid 7 and 8</h4>
+<h1>Video 8</h1>
+<h3>Resumes within host computer cmd ssh'ed to vm immediately after last command in video 7, vm should not have been
+    closed between vid 7 and 8</h3>
 <ul>
     <li><i>sudo sysctl -w net.ipv4.ip_forward=1</i></li>
     <ul>
