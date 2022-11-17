@@ -1,4 +1,4 @@
-<h2>Video 6</h2>
+<h1>Video 6</h1>
 <ul>
     <li>In VirtualBox, right click original ubuntu vm</li>
     <ul>
