@@ -1,4 +1,4 @@
-<h2>Video 3</h2>
+<h1>Video 3</h1>
 <ul>
     <li>Start the 'ubuntu' VM</li>
     <li>Select 'Try or Install Ubuntu Server'</li>
