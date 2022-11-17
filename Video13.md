@@ -1,6 +1,6 @@
-<h2>Video 13</h2>
-<h4>resumes with where video 12 left off:</h4>
-<h4>both free5gc (f) and ueransim (u) vms are running</h4>
+<h1>Video 13</h1>
+<h3>resumes with where video 12 left off:</h3>
+<h3>both free5gc (f) and ueransim (u) vms are running</h3>
 <ul>
     <li>open a terminal/cmd window (t)</li>
     <li>(t) <i>ssh 192.168.56.101 -l {username}</i></li>
