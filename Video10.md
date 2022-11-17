@@ -1,6 +1,6 @@
-<h2>Video 10</h2>
-<h4>Resumes within host computer cmd ssh'ed to vm immediately after last command in video 9, vm should not have been
-    closed between vid 9 and 10</h4>
+<h1>Video 10</h1>
+<h3>Resumes within host computer cmd ssh'ed to vm immediately after last command in video 9, vm should not have been
+    closed between vid 9 and 10</h3>
 <ul>
     <li><b><u>make sure to run ip routing config commands from video 8, if a restart did occur between vid 9 &
                 10</u></b></li>
