@@ -1,7 +1,7 @@
-<h2>Video 12</h2>
-<h4>Resumes with where Video 11 left off</h4>
-<h4>both free5gc (f) and ueransim (u) vms are running</h4>
-<h4>terminal sshed into ueransim</h4>
+<h1>Video 12</h1>
+<h3>Resumes with where Video 11 left off</h3>
+<h3>both free5gc (f) and ueransim (u) vms are running</h3>
+<h3>terminal sshed into ueransim</h3>
 <ul>
     <li>(t) <i>cd ~</i></li>
     <li>(t) <i>git clone https://github.com/aligungr/UERANSIM</i></li>
