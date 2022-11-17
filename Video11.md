@@ -1,5 +1,5 @@
-<h2>Video 11</h2>
-<h4>Resumes with VM powered off</h4>
+<h1>Video 11</h1>
+<h3>Resumes with VM powered off</h3>
 <ul>
     <li>go to ubuntu (linked base) snapshots</li>
     <li>click the Clone button at the top</li>
