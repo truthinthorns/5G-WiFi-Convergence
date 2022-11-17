@@ -16,7 +16,7 @@
     </ul>
 </ul>
 
-<h2>Links to video instructions</h2>
+<h2>Links to Video Instructions</h2>
 <ul>
     <li>Video01: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video01.md</li>
     <li>Video02: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video02.md</li>
@@ -37,3 +37,4 @@
     <li>Video17: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video17.md</li>
     <li>Video18: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video18.md</li>
 </ul>
+<p>Link to Routing Bash Script: </p>
