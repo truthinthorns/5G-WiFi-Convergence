@@ -1,5 +1,5 @@
-<h2>Video 16</h2>
-<h4>resumes with all vms powered off</h4>
+<h1>Video 16</h1>
+<h3>resumes with all vms powered off</h3>
 <ul>
     <li>start free5gc vm (f)</li>
     <li>start ueransim vm (u)</li>
