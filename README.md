@@ -15,3 +15,5 @@
         <li>Steps to do this vary based on motherboard.</li>
     </ul>
 </ul>
+
+<h2>Links to instructions for each video are above.</h2>
