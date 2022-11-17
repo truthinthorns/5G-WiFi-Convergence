@@ -1,4 +1,4 @@
-<h2>Video 7</h2>
+<h1>Video 7</h1>
 <ul>
     <li>start free5gc vm through virtualbox</li>
     <li>open a cmd on the host computer outside of the vm</li>
