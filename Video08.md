@@ -4,13 +4,13 @@
 <ul>
     <li><i>sudo sysctl -w net.ipv4.ip_forward=1</i></li>
     <ul>
-        <li>result should be "net.ipv4.ip_forward = 1"</li>
+        <li>Result should be "net.ipv4.ip_forward = 1"</li>
     </ul>
     <li><i>sudo iptables -t nat -A POSTROUTING -o enp0s3 -j MASQUERADE</i></li>
     <li><i>sudo systemctl stop ufw</i></li>
     <li><i>sudo service ufw status</i></li>
     <ul>
-        <li>results should be as follows</li>
+        <li>Results should be as follows</li>
         <li>"Loaded: loaded (/lib/systemd/system/ufw.service; enabled; vendor preset: enabled)...</li>
         <li>"Active: inactive (dead) since..."</li>
     </ul>
