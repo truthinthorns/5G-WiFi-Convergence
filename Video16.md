@@ -5,7 +5,7 @@
     <li>start ueransim vm (u)</li>
     <li>open a terminal/cmd window (t)</li>
     <li>(t) <i>ssh 192.168.56.101 -l {username}</i></li>
-    <ul><li>-this should ssh into free5gc vm</li></ul>
+    <ul><li>This should ssh into free5gc vm</li></ul>
     <li>(t) <i>sudo sysctl -w net.ipv4.ip_forward=1</i></li>
     <li>(t) <i>sudo iptables -t nat -A POSTROUTING -o enp0s3 -j MASQUERADE</i></li>
     <li>(t) <i>ifconfig</i></li>
