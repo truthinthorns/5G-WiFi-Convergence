@@ -20,18 +20,18 @@
     <li><i>ifconfig</i></li>
     <li><i>sudo nano /etc/hostname</i></li>
     <ul>
-        <li>replace "ubuntu" with "free5gc"</li>
-        <li>save file</li>
+        <li>Replace "ubuntu" with "free5gc"</li>
+        <li>Save file</li>
     </ul>
     <li><i>sudo nano /etc/hosts</i></li>
     <ul>
-        <li>replace "127.0.1.1 ubuntu" with "127.0.1.1 free5gc"</li>
-        <li>save file</li>
+        <li>Replace "127.0.1.1 ubuntu" with "127.0.1.1 free5gc"</li>
+        <li>Save file</li>
     </ul>
     <li><i>cd /etc/netplan</i></li>
     <li><i>ls</i></li>
     <ul>
-        <li>there should be one file: "00-installer-config.yaml"</li>
+        <li>There should be one file: "00-installer-config.yaml"</li>
     </ul>
     <li><i>sudo nano 00-installer-config.yaml</i></li>
     <ul>
