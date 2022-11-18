@@ -1,37 +1,37 @@
 <h1>Video 7</h1>
 <ul>
-    <li>start free5gc vm through virtualbox</li>
-    <li>open a cmd on the host computer outside of the vm</li>
+    <li>Start free5gc vm through virtualbox</li>
+    <li>Open a cmd on the host computer outside of the vm</li>
     <li><i>ssh 192.168.56.101 -l {your username}</i></li>
     <ul>
-        <li>no brackets around username</li>
-        <li>type "yes" to confirm connection</li>
-        <li>enter password (no text will show, while typing password text is obscured)</li>
+        <li>No brackets around username</li>
+        <li>Type "yes" to confirm connection</li>
+        <li>Enter password (no text will show, while typing password text is obscured)</li>
     </ul>
-    <li>should now be ssh'ed into vm on the host computer's cmd</li>
+    <li>Should now be ssh'ed into vm on the host computer's cmd</li>
     <li><i>uname -r</i></li>
     <ul>
-        <li>result in video says: "5.4.0-65-generic"</li>
-        <li>result says '5.15.0-52-generic'</li>
+        <li>Result in video says: "5.4.0-65-generic"</li>
+        <li>Result says '5.15.0-52-generic'</li>
     </ul>
     <li><i>go version</i></li>
     <ul>
-        <li>result in video says: "Command 'go' not found, ... "</li>
+        <li>Result in video says: "Command 'go' not found, ... "</li>
     </ul>
-    <li>open a web browser, and proceed to https://golang.org/dl/</li>
+    <li>Open a web browser, and proceed to https://golang.org/dl/</li>
     <ul>
-        <li>under featured downloads, there should be a Linux download link titled "go1.19.1.linux-amd64.tar.gz"</li>
-        <li>right click the link, and select "Copy Link Location"</li>
+        <li>Under featured downloads, there should be a Linux download link titled "go1.19.1.linux-amd64.tar.gz"</li>
+        <li>Right click the link, and select "Copy Link Location"</li>
     </ul>
-    <li>navigate back to the host computer cmd which is ssh'ed into the vm</li>
+    <li>Navigate back to the host computer cmd which is ssh'ed into the vm</li>
     <li><i>wget {copied link from browser}</i></li>
     <ul>
-        <li>could type out link as well (w/o brackets):</li>
+        <li>Could type out link as well (w/o brackets):</li>
         <li>{https://golang.org/dl/go1.19.1.linux-amd64.tar.gz}</li>
     </ul>
     <li><i>ls</i></li>
     <ul>
-        <li>there should be one file:</li>
+        <li>There should be one file:</li>
         <ul>
             <li>go1.19.1.linux-amd64.tar.gz</li>
         </ul>
@@ -45,7 +45,7 @@
     <li><i>source ~/.bashrc</i></li>
     <li><i>go version</i></li>
     <ul>
-        <li>should say "go version go1.19.1 linux/amd64"</li>
+        <li>Should say "go version go1.19.1 linux/amd64"</li>
     </ul>
     <li><i>sudo apt -y update</i></li>
     <li><i>sudo apt update</i></li>
@@ -62,11 +62,11 @@
     <li><i>sudo systemctl start mongod</i></li>
     <li><i>mongosh</i></li>
     <ul>
-        <li>opens the MongoDB shell</li>
+        <li>Opens the MongoDB shell</li>
     </ul>
-    <li><i>exit</i></li>
+    <li><i>Exit</i></li>
     <ul>
-        <li>exits the MongoDB shell, returning to normal VM terminal</li>
+        <li>Exits the MongoDB shell, returning to normal VM terminal</li>
     </ul>
     <li><i>sudo apt -y install git gcc g++ cmake autoconf libtool pkg-config libmnl-dev libyaml-dev</i></li>
     <li><i>go get -u github.com/sirupsen/logrus </i></li>
