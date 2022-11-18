@@ -5,15 +5,15 @@
     <li>start ueransim vm (u)</li>
     <li>open a terminal/cmd window (t)</li>
     <li>(t) <i>ssh 192.168.56.101 -l {username}</i></li>
-    -this should ssh into free5gc vm
+    <ul><li>-this should ssh into free5gc vm</li></ul>
     <li>(t) <i>sudo sysctl -w net.ipv4.ip_forward=1</i></li>
     <li>(t) <i>sudo iptables -t nat -A POSTROUTING -o enp0s3 -j MASQUERADE</i></li>
     <li>(t) <i>ifconfig</i></li>
-    -verify under 'enp0s3' that 'inet' is '10.0.2.15'
+    <ul><li>verify under 'enp0s3' that 'inet' is '10.0.2.15'</li></ul>
     <li>(t) <i>sudo systemctl stop ufw</i></li>
     <li>(t) <i>sudo service ufw status</i></li>
-    -verify 'Loaded: loaded'
-    -verify 'Active: inactive (dead)'
+    <ul><li>verify 'Loaded: loaded'</li></ul>
+    <ul><li>verify 'Active: inactive (dead)'</li></ul>
     <li>(t) <i>sudo iptables -I FORWARD 1 -j ACCEPT</i></li>
     <li>(t) <i>sudo iptables -t nat -S</i></li>
     <ul>
