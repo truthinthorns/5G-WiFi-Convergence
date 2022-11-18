@@ -35,14 +35,14 @@
     <li><i>cd /etc/netplan</i></li>
     <li><i>sudo nano 00-installer-config.yaml</i></li>
     <ul>
-        <li>change from:</li>
+        <li>Change from:</li>
         <ul>
             <li>enp0s8</li>
             <ul>
                 <li>dhcp4: true</li>
             </ul>
         </ul>
-        <li>to:</li>
+        <li>To:</li>
         <ul>
             <li>enp0s8</li>
             <ul>
@@ -50,20 +50,20 @@
                 <li>addresses: [192.168.56.102/24]</li>
             </ul>
         </ul>
-        <li>save and exit</li>
+        <li>Save and exit</li>
     </ul>
     <li><i>sudo netplan try</i></li>
     <ul>
-        <li>should say 'Configuration accepted.'</li>
+        <li>It should say 'Configuration accepted.'</li>
     </ul>
     <li><i>sudo netplan apply</i></li>
     <li><i>ifconfig</i></li>
     <ul>
-        <li>confirm that 'inet 192.168.56.102' is under enp0s8</li>
+        <li>Confirm that 'inet 192.168.56.102' is under enp0s8</li>
     </ul>
     <li><i>sudo shutdown -r now</i></li>
-    <li>boot free5gc vm concurrently with ueransim (f)</li>
-    <li>start a terminal/cmd window as well (t)</li>
+    <li>Boot free5gc vm concurrently with ueransim (f)</li>
+    <li>Start a terminal/cmd window as well (t)</li>
     <li>(t) <i>ssh 192.168.56.102 -l {username}</i></li>
     <li>(t) <i>ping 192.168.56.101</i></li>
     <li>(t) <i>ifconfig</i></li>
