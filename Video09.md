@@ -1,5 +1,5 @@
 <h1>Video 9</h1>
-<h3>resumes within host computer cmd ssh'ed to vm</h3>
+<h3>Resumes within host computer cmd ssh'ed to vm</h3>
 <ul>
     <li><b><u>Make sure that every time the vm is started from this point onwards, run ip routing config commands from
                 video 8</u></b></li>
