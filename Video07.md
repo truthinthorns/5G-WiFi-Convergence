@@ -64,7 +64,7 @@
     <ul>
         <li>Opens the MongoDB shell</li>
     </ul>
-    <li><i>Exit</i></li>
+    <li><i>exit</i></li>
     <ul>
         <li>Exits the MongoDB shell, returning to normal VM terminal</li>
     </ul>
