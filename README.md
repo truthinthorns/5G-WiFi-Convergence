@@ -14,6 +14,7 @@
     <ul>
         <li>Steps to do this vary based on motherboard.</li>
     </ul>
+    <li>Follow instructions on software version carefully, using different versions can lead to bugs</li>
 </ul>
 
 <h2>Links to Video Instructions</h2>
