@@ -1,18 +1,18 @@
 <h1>Video 11</h1>
 <h3>Resumes with VM powered off</h3>
 <ul>
-    <li>go to ubuntu (linked base) snapshots</li>
-    <li>click the Clone button at the top</li>
+    <li>Go to ubuntu (linked base) snapshots</li>
+    <li>Click the Clone button at the top</li>
     <ul>
-        <li>change name to 'ueransim'</li>
-        <li>change MAC Address Policy to 'Generate new MAC addresses for all network adapters'</li>
-        <li>click Continue</li>
-        <li>select 'Linked Clone'</li>
-        <li>click Clone</li>
+        <li>Change name to 'ueransim'</li>
+        <li>Change MAC Address Policy to 'Generate new MAC addresses for all network adapters'</li>
+        <li>Click Continue</li>
+        <li>Select 'Linked Clone'</li>
+        <li>Click Clone</li>
     </ul>
-    <li>boot ueransim vm (u)</li>
+    <li>Boot ueransim vm (u)</li>
     <ul>
-        <li>log in</li>
+        <li>Log in</li>
     </ul>
     <li><i>ping google.com</i></li>
     <ul>
@@ -20,17 +20,17 @@
     </ul>
     <li><i>ifconfig</i></li>
     <ul>
-        <li>confirm that results match video 11 results at 1:13</li>
+        <li>Confirm that results match video 11 results at 1:13</li>
     </ul>
     <li><i>sudo nano /etc/hostname</i></li>
     <ul>
-        <li>change from 'ubuntu' to 'ueransim'</li>
-        <li>save and exit</li>
+        <li>Change from 'ubuntu' to 'ueransim'</li>
+        <li>Save and exit</li>
     </ul>
     <li><i>sudo nano /etc/hosts</i></li>
     <ul>
-        <li>change from '127.0.1.1 ubuntu' to '127.0.1.1 ueransim'</li>
-        <li>save and exit</li>
+        <li>Change from '127.0.1.1 ubuntu' to '127.0.1.1 ueransim'</li>
+        <li>Save and exit</li>
     </ul>
     <li><i>cd /etc/netplan</i></li>
     <li><i>sudo nano 00-installer-config.yaml</i></li>
