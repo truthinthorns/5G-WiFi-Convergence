@@ -40,11 +40,17 @@
             [192.168.56.101/24]"</li>
         <li>Save file</li>
     </ul>
+    <li>If you don't see "00-installer-config.yaml", run <i>sudo nano 00-installer-config.yaml</i></li>
     <ul>
-        <li>If you don't see "00-installer-config.yaml", run <i>sudo nano 00-installer-config.yaml</i></li>
-        <ul>
-            <li>network:</li>
-        </ul>
+        <li>network:<br>
+            (tab)ethernets:<br>
+            (tab tab)enp0s3:<br>
+            (tab tab tab)dhcp: true<br>
+            (tab tab)enp0s8:<br>
+            (tab tab tab)dhcp4: false<br>
+            (tab tab tab)addresses: [192.168.56.101/24]<br>
+            (tab)version: 2
+        </li>
     </ul>
     <li><i>sudo netplan try</i></li>
     <ul>
