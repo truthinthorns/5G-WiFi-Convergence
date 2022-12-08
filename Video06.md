@@ -40,7 +40,7 @@
             [192.168.56.101/24]"</li>
         <li>Save file</li>
     </ul>
-    <li>If you don't see "00-installer-config.yaml", run <i>sudo nano 00-installer-config.yaml</i></li>
+    <li>If you don't see "00-installer-config.yaml", run <i>sudo nano 00-installer-config.yaml</i>, and type this into the file</li>
     <ul>
         <li>network:<br>
             (tab)ethernets:<br>
