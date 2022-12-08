@@ -40,6 +40,12 @@
             [192.168.56.101/24]"</li>
         <li>Save file</li>
     </ul>
+    <ul>
+        <li>If you don't see "00-installer-config.yaml", run <i>sudo nano 00-installer-config.yaml</i></li>
+        <ul>
+            <li>network:</li>
+        </ul>
+    </ul>
     <li><i>sudo netplan try</i></li>
     <ul>
         <li>Press ENTER to confirm</li>
