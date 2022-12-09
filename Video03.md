@@ -1,4 +1,7 @@
 <h1>Video 3</h1>
+<h2>Link to Video 2 Instructions</h2>
+<p>Video 02: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video02.md</p>
+<br>
 <ul>
     <li>Start the 'ubuntu' VM</li>
     <li>Select 'Try or Install Ubuntu Server'</li>
@@ -23,3 +26,5 @@
     <li>Select 'Done' for SSH Setup</li>
     <li>Select 'Done' for Featured Server Snaps</li>
 </ul>
+<h2>Link to Video 4 Instructions</h2>
+Video 04: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video04.md
