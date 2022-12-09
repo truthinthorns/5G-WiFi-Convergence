@@ -1,5 +1,5 @@
 <h1>Video 2</h1>
-<h2>Link to Video 1 Instructions</h2>
+<h2>Previous</h2>
 <p>Video 01: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video01.md</p>
 <br>
 <ul>
@@ -19,5 +19,5 @@
     <li>Click 'OK'</li>
 </ul>
 
-<h2>Link to Video 3 Instructions</h2>
+<h2>Next</h2>
 Video 03: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video03.md
