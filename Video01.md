@@ -14,5 +14,3 @@
     <li>Click 'Next'</li>
     <li>Click 'Finish'</li>
 </ul>
-<h2>Next</h2>
-Video 02: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video02.md
