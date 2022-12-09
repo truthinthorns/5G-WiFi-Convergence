@@ -1,4 +1,6 @@
 <h1>Video 2</h1>
+<h2>Link to Video 1 Instructions</h2>
+Video 01: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video01.md
 <ul>
     <li>Select 'ubuntu' VM on the left</li>
     <li>Click 'Settings' at the top</li>
@@ -15,3 +17,6 @@
     <li>Under 'Attached to' select 'Host-only Adapter'</li>
     <li>Click 'OK'</li>
 </ul>
+
+<h2>Link to Video 3 Instructions</h2>
+Video 03: https://github.com/truthinthorns/5G-WiFi-Convergence/blob/19f394bbdf19347f8a24a8b2d451c3eb47ec325b/Video03.md
