@@ -1,7 +1,7 @@
 # 5G-WiFi-Convergence
 <h2>Prerequisites</h2>
 <ul>
-    <li>Have either the <a href='https://ubuntu.com/download/server'>Server (Command Line)</a> or <a href='https://ubuntu.com/download/desktop'>Desktop</a> version of Ubuntu 22.04</li>
+    <li>Have either the <a href='https://ubuntu.com/download/server'>Server (Command Line)</a> or <a href='https://ubuntu.com/download/desktop'>Desktop (GUI)</a> version of Ubuntu 22.04</li>
     <li>Have <a href='https://www.virtualbox.org/'>VirtualBox 7.0</a></li>
     <li>Ensure Virtualization is enabled in your host computer’s UEFI/BIOS.</li>
     <ul>
