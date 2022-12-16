@@ -26,7 +26,7 @@
     <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video05.md’>Video 05</a></li>
     <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video06.md’>Video 06</a></li>
     <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video07.md’>Video 07</a></li>
-    <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob//Video08.md’>Video 08</a></li>
+    <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video08.md’>Video 08</a></li>
     <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video09.md’>Video 09</a></li>
     <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video10.md’>Video 10</a></li>
     <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video11.md’>Video 11</a></li>
