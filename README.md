@@ -35,5 +35,5 @@
 <li><a href='https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video18.md'>Video 18</a></li>
 </ul>
 <p><a href='https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/routing.sh'>Routing Bash Script</a></p>
-<p>Link to free5gc Video Playlist: https://www.youtube.com/watch?v=R-9vH_6VJ2Q&list=PLeDUIabcS2_rQd3yVJrBAYb-MbcqNgjC9</p>
-<p>Link to GUI Version Walkthrough Video: https://youtu.be/p44HlRMSKf8</p>
+<p><a href='https://www.youtube.com/watch?v=R-9vH_6VJ2Q&list=PLeDUIabcS2_rQd3yVJrBAYb-MbcqNgjC9'>free5gc Video Playlist</a></p>
+<p><a href='https://youtu.be/p44HlRMSKf8'>GUI Version Walkthrough Video</a></p>
