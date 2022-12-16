@@ -19,7 +19,7 @@
 
 <h2>Links to Video Instructions</h2>
 <ul>
-    <li><a href='https://github.com/truthinthorns/5G-WiFi-Convergence/blob/e5c608233dd69c72a6e0b451d66b8468aad6e446/Video01.md’>Video 01</a></li>
+    <li><a href='https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video01.md’>Video 01</a></li>
     <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video02.md’>Video 02</a></li>
     <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video03.md’>Video 03</a></li>
     <li><a href=’https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video04.md’>Video 04</a></li>
