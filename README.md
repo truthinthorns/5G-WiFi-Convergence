@@ -16,8 +16,9 @@
     </ul>
     <li>Follow instructions on software version carefully, using different versions can lead to bugs</li>
 </ul>
-
-<a href='https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video02.md'>test</a>
+<ul>
+<li><a href='https://github.com/truthinthorns/5G-WiFi-Convergence/blob/main/Video02.md'>test</a></li>
+</ul>
 
 <h2>Links to Video Instructions</h2>
 <ul>
