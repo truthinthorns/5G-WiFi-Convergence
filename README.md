@@ -3,13 +3,10 @@
 <ul>
     <li>Have either the Server (Command Line) or Desktop (GUI) version of Ubuntu 22.04</li>
     <ul>
-        <li>Server: https://ubuntu.com/download/server</li>
-        <li>Dekstop: https://ubuntu.com/download/desktop</li>
+        <li><a href='https://ubuntu.com/download/server'>Server</a></li>
+        <li><a href='https://ubuntu.com/download/desktop'>Desktop</a></li>
     </ul>
-    <li>Have VirtualBox 7.0</li>
-    <ul>
-        <li>https://www.virtualbox.org/</li>
-    </ul>
+    <li>Have <a href='https://www.virtualbox.org/'>VirtualBox 7.0</a></li>
     <li>Ensure Virtualization is enabled in your host computer’s UEFI/BIOS.</li>
     <ul>
         <li>Steps to do this vary based on motherboard.</li>
